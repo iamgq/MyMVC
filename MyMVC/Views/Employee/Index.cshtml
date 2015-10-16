@@ -1,0 +1,36 @@
+﻿
+@using MyMVC.ViewModels
+@model EmployeeListViewModel
+@{ 
+    Layout = null;
+}
+<html>
+<head>
+<title>Employees</title>
+</head>
+<body>
+    <div> 
+        <div>
+            <a href ="/Employee/AddNew">
+                Add New</a>
+                <hr />
+                <div>
+                    <table>
+                        <tr>
+                            <th>Employee Name</th>
+                            <th>Salary</th>
+                        </tr>
+                        @foreach (EmployeeViewModel item in Model.Employees)
+                        {
+                            <tr>
+                                <td>@item.EmployeeName</td>
+                                <td style="background-color:@item.SalaryColor">@item.Salary</td>
+                            </tr>
+                        }
+
+                    </table>
+                </div>
+</div>
+    </div>
+</body>
+</html>
