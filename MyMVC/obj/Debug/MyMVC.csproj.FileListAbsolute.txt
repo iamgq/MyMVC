@@ -48,7 +48,6 @@ C:\Users\kelvinyip\Documents\My Projects\MyMVC\MyMVC\bin\System.Web.Razor.xml
 C:\Users\kelvinyip\Documents\My Projects\MyMVC\MyMVC\bin\System.Web.WebPages.xml
 C:\Users\kelvinyip\Documents\My Projects\MyMVC\MyMVC\bin\System.Web.WebPages.Deployment.xml
 C:\Users\kelvinyip\Documents\My Projects\MyMVC\MyMVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\kelvinyip\Documents\My Projects\MyMVC\MyMVC\bin\Antlr3.Runtime.pdb
 C:\Users\kelvinyip\Documents\My Projects\MyMVC\MyMVC\bin\Newtonsoft.Json.xml
 C:\Users\kelvinyip\Documents\My Projects\MyMVC\MyMVC\bin\EntityFramework.xml
 C:\Users\kelvinyip\Documents\My Projects\MyMVC\MyMVC\bin\EntityFramework.SqlServer.xml
